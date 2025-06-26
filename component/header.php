@@ -42,12 +42,10 @@ if (!isset($pageConfig)) {
     <header>
         <div class="head">
             <div class="text-header">
-                <a href="<?= BASE_URL ?>"><i class="ri-file-line"></i>Portfolio <i class="ri-user-2-line"></i> Mr.Pasit Phonmanee</a>
+                <a href="<?= BASE_URL ?>"><i class="ri-file-line"></i>Todo</a>
             </div>
 
             <nav class="navbar-header">
-                <a href="<?= BASE_URL ?>" class="navhome"><i class="ri-home-fill"></i> home</a>
-                <a href="<?= BASE_URL ?>myproject" class="navhome"><i class="ri-arrow-right-circle-fill"></i> My work</a>
             </nav>
 
             <div class="icon">
