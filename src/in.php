@@ -1,7 +1,12 @@
 
+<?php
+phpinfo(); // แสดงข้อมูล PHP info
+// echo "Hello from Docker PHP!";
+?>
 <?php 
     //define('BASE_URL', 'https://ohmtool.com/'); 
-    define('BASE_URL', 'http://localhost/Git/Pasit/RQ00002/'); 
+    //define('BASE_URL', 'http://localhost/Git/Pasit/RQ00002/'); 
+    define('BASE_URL', 'http://localhost/'); 
     define('SECURE_ACCESS', true);
 ?>
 
